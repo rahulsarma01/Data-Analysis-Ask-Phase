@@ -18,7 +18,7 @@ The repository contains the following resources:
 To use this repository, simply browse the resources and select the ones that are most relevant to your needs. You can also contribute your own resources by submitting a pull request to the repository.
 
 ## Contribute
-If you have resources or insights that you think would be valuable to the community, please consider contributing to the repository. You can contribute by submitting a pull request, sharing your own case studies, or participating in the community forum.
+If you have resources or insights that you think would be valuable to the community, please consider contributing to the repository. You can contribute by submitting a pull request, sharing your own case studies.
 
 ## Conclusion
 Data analysis is only as good as the questions it answers. That's why the "ask" phase is critical to any successful data analysis project.This repository is dedicated to helping data analysts, business analysts, and other stakeholders improve the quality of their analyses by focusing on the "ask" phase.
